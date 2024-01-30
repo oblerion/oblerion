@@ -1,6 +1,7 @@
 # Who am I?
 - Low-level developer: I like to build my own tools/games lightweight and robust.
 - 3d modeler: low-poly (gamecube styled)
+- pixelart artist
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Oblerion&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
