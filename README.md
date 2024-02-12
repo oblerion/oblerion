@@ -13,4 +13,8 @@
 - [Kbd_layout_raylib](https://github.com/oblerion/Kbd_layout_raylib) more keyboard layout for raylib 
 
 ## javascript 
-- [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game 
+- [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
+
+## Link
+- [itch.io](https://oblerion.itch.io/) games / tools
+- [grabcad](https://grabcad.com/oblerion.neka-1) 3d models
