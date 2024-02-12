@@ -12,10 +12,10 @@
 - [lightmanager_raylib](https://github.com/oblerion/lightmanager_raylib) 3d light manager for raylib 
 - [Kbd_layout_raylib](https://github.com/oblerion/Kbd_layout_raylib) more keyboard layout for raylib 
 
-## javascript 
+## Javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
 
-## openscad - 3d models
+## Openscad - 3d models
 - [projects](https://github.com/oblerion/openscad_projects)
 
 ## Link
