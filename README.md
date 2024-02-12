@@ -15,7 +15,7 @@
 ## javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
 
-## openscad 
+## openscad - 3d models
 - [projects](https://github.com/oblerion/openscad_projects)
 
 ## Link
