@@ -19,7 +19,7 @@
 - [JsonObject.hpp](https://github.com/oblerion/JsonObject.hpp) c++ read/write json<br>
 - [dirent2.hpp](https://github.com/oblerion/dirent2) c++ dirent<br>
 - [cpu_config_gui_ubuntu](https://github.com/oblerion/cpu_config_gui_ubuntu) manual set max frequency cpu <br>
-- [amdstrad_editor](https://github.com/oblerion/amstrad_editor) amdstrad like text editor
+- [amstrad_editor](https://github.com/oblerion/amstrad_editor) amstrad like text editor
 
 ## C#
 - [JsonObject.cs](https://github.com/oblerion/JsonObject.cs) c# read/write json
