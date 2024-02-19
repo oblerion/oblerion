@@ -8,6 +8,7 @@
 ## C / raylib project
 - [GBA_engine](https://oblerion.itch.io/gba-engine) gameboy advance game engine
 - [FIDE](https://github.com/oblerion/FIDE) Full opensource IDE<br>
+- [SPN](https://oblerion.itch.io/spnt) fast sprite editor<br>
 - [compilator](https://github.com/oblerion/compilator) Cmake alternative for raylib project
 - [ui_raylib](https://github.com/oblerion/ui_raylib) UI library for raylib
 - [lightmanager_raylib](https://github.com/oblerion/lightmanager_raylib) 3d light manager for raylib 
