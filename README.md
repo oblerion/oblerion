@@ -17,6 +17,7 @@
 
 ## C++
 - [JsonObject.hpp](https://github.com/oblerion/JsonObject.hpp) c++ read/write json<br>
+- [dirent2.hpp](https://github.com/oblerion/dirent2) c++ dirent<br>
 - [consoledit](https://oblerion.itch.io/consoledit) amdstrad like text editor
 
 ## C#
