@@ -22,6 +22,9 @@
 ## C#
 - [JsonObject.cs](https://github.com/oblerion/JsonObject.cs) c# read/write json
 - [BrokenMesh](https://oblerion.itch.io/broken-mesh) moding tank arena game
+#### first game
+- [Legion5](https://oblerion.itch.io/legion5) shoot'em up
+
 
 ## Javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
