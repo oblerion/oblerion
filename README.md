@@ -26,7 +26,7 @@
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
 
 ## Unity
-- [Nullity](https://github.com/oblerion/Nullity) framework easy to use for unity game
+- [Nullity](https://github.com/oblerion/Nullity) framework easy to use
 
 ## Openscad - 3d models
 - [projects](https://github.com/oblerion/openscad_projects)
