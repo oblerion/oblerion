@@ -12,7 +12,8 @@
 - [compilator](https://github.com/oblerion/compilator) Cmake alternative for raylib project
 - [ui_raylib](https://github.com/oblerion/ui_raylib) UI library for raylib
 - [lightmanager_raylib](https://github.com/oblerion/lightmanager_raylib) 3d light manager for raylib 
-- [Kbd_layout_raylib](https://github.com/oblerion/Kbd_layout_raylib) more keyboard layout for raylib 
+- [Kbd_layout_raylib](https://github.com/oblerion/Kbd_layout_raylib) more keyboard layout for raylib
+- [cat binary file](https://gist.github.com/oblerion/55a0673941243bcab6e9d82312bf8bde)
 
 ## C++
 - [JsonObject.hpp](https://github.com/oblerion/JsonObject.hpp) c++ read/write json<br>
