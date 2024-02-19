@@ -5,7 +5,7 @@
 
 ![Oblerion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oblerion&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
-## C / raylib project
+## C
 - [GBA_engine](https://oblerion.itch.io/gba-engine) gameboy advance game engine
 - [FIDE](https://github.com/oblerion/FIDE) Full opensource IDE<br>
 - [SPN](https://oblerion.itch.io/spnt) fast sprite editor<br>
@@ -13,7 +13,7 @@
 - [ui_raylib](https://github.com/oblerion/ui_raylib) UI library for raylib
 - [lightmanager_raylib](https://github.com/oblerion/lightmanager_raylib) 3d light manager for raylib 
 - [Kbd_layout_raylib](https://github.com/oblerion/Kbd_layout_raylib) more keyboard layout for raylib
-- [cat binary file](https://gist.github.com/oblerion/55a0673941243bcab6e9d82312bf8bde)
+- [cat binary file](https://gist.github.com/oblerion/55a0673941243bcab6e9d82312bf8bde) cat binairy file in c 
 
 ## C++
 - [JsonObject.hpp](https://github.com/oblerion/JsonObject.hpp) c++ read/write json<br>
