@@ -12,6 +12,10 @@
 - [lightmanager_raylib](https://github.com/oblerion/lightmanager_raylib) 3d light manager for raylib 
 - [Kbd_layout_raylib](https://github.com/oblerion/Kbd_layout_raylib) more keyboard layout for raylib 
 
+## C++
+[JsonObject.hpp](https://github.com/oblerion/JsonObject.hpp) c++ read/write json
+[consoledit](https://oblerion.itch.io/consoledit) amdstrad like text editor
+
 ## Javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
 
