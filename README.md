@@ -3,6 +3,9 @@
 - 3d modeler: low-poly (gamecube styled)
 - pixelart artist
 
+[itch.io](https://oblerion.itch.io/) games / tools
+[grabcad](https://grabcad.com/oblerion.neka-1) 3d models
+
 ![Oblerion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oblerion&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 # Projects :
@@ -22,9 +25,10 @@
 - [cpu_config_gui_ubuntu](https://github.com/oblerion/cpu_config_gui_ubuntu) manual set max frequency cpu <br>
 - [amstrad_editor](https://github.com/oblerion/amstrad_editor) amstrad like text editor
 
-## C/C++ hybrid
+## Javascript 
+- [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
 
-## C#
+## C# (old build)
 - [JsonObject.cs](https://github.com/oblerion/JsonObject.cs) c# read/write json
 - [BrokenMesh](https://oblerion.itch.io/broken-mesh) moding tank arena game
 #### first game
@@ -32,16 +36,10 @@
 - [Legion5](https://oblerion.itch.io/legion5) shoot'em up
 - [Stardemake](https://oblerion.itch.io/star-demake) starcraft demake
 
-
-## Javascript 
-- [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
-
-## Unity
-- [Nullity](https://github.com/oblerion/Nullity) framework easy to use
+## Unity (old)
+- [Nullity](https://github.com/oblerion/Nullity) framework easy to use for Unity3d
 
 ## Openscad - 3d models
 - [projects](https://github.com/oblerion/openscad_projects)
 
-## Link
-- [itch.io](https://oblerion.itch.io/) games / tools
-- [grabcad](https://grabcad.com/oblerion.neka-1) 3d models
+
