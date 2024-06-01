@@ -24,6 +24,7 @@
 - [dirent2.hpp](https://github.com/oblerion/dirent2) c++ dirent<br>
 - [cpu_config_gui_ubuntu](https://github.com/oblerion/cpu_config_gui_ubuntu) manual set max frequency cpu <br>
 - [amstrad_editor](https://github.com/oblerion/amstrad_editor) amstrad like text editor
+- [ServiceLocator](https://github.com/oblerion/ServiceLocator.hpp) service locator c++
 
 ## Javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
