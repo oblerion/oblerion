@@ -22,7 +22,7 @@
 ## Javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
 
-## Minetest mod
+## Minetest mod (lua)
 - [skyboard](https://github.com/oblerion/skyboard) skyboard flying vehicle
 
 ## Openscad - 3d models
