@@ -25,8 +25,7 @@
 ## Minetest mod (lua)
 - [skyboard](https://github.com/oblerion/skyboard) skyboard flying vehicle
 
-## Openscad - 3d models
-- [projects](https://github.com/oblerion/openscad_projects)
+## [Opnenscad 3d model](https://github.com/oblerion/openscad_projects)
   
 ## C++ (old)
 - [JsonObject.hpp](https://github.com/oblerion/JsonObject.hpp) c++ read/write json<br>
