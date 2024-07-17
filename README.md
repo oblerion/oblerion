@@ -27,7 +27,7 @@
 
 ## [Openscad 3d model](https://github.com/oblerion/openscad_projects)
 
-## Research Bionicle part for leocad/ldraw
+## [Bionicle parts for leocad/ldraw](https://github.com/oblerion/bionicle_part_leocad)
   
 ## C++ (old)
 - [JsonObject.hpp](https://github.com/oblerion/JsonObject.hpp) c++ read/write json<br>
