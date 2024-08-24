@@ -22,7 +22,10 @@
 ## Javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
 
-## Minetest mod (lua)
+## Lua
+### Egba engine game
+- [legion5-for](https://github.com/oblerion/legion5_for) game legion5: fox on the run
+### Minetest mod
 - [skyboard](https://github.com/oblerion/skyboard) skyboard flying vehicle
 
 ## [Openscad 3d model](https://github.com/oblerion/openscad_projects)
