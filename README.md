@@ -27,7 +27,8 @@
 - [legion5-for](https://github.com/oblerion/legion5_for) game legion5: fox on the run
 ### Minetest mod
 - [skyboard](https://github.com/oblerion/skyboard) skyboard flying vehicle
-
+### Tic80 & zerobrane studio
+https://github.com/oblerion/ZeroBrane-Studio-with-TIC-80
 ## [Openscad 3d model](https://github.com/oblerion/openscad_projects)
 
 ## [Bionicle parts for leocad/ldraw](https://github.com/oblerion/bionicle_part_leocad)
