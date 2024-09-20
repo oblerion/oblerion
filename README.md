@@ -10,6 +10,7 @@
 
 # Projects :
 ## C
+- [Elyoko](https://github.com/oblerion/elyoko) 3d engine for lyoko world
 - [GBA_engine](https://oblerion.itch.io/gba-engine) gameboy advance game engine
 - [FIDE](https://github.com/oblerion/FIDE) Full opensource IDE<br>
 - [SPN](https://oblerion.itch.io/spnt) fast sprite editor<br>
