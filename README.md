@@ -3,8 +3,8 @@
 - 3d modeler: low-poly (gamecube styled)
 - pixelart artist
 
-[itch.io](https://oblerion.itch.io/) games / tools
-[grabcad](https://grabcad.com/oblerion.neka-1) 3d models
+[itch.io](https://oblerion.itch.io/) games / tools<br>
+[artstation](https://www.artstation.com/oblerion) 3d models
 
 ![Oblerion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oblerion&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
