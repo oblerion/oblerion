@@ -23,6 +23,7 @@
 ## Javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
 - [website](https://oblerion.github.io/website)
+- [ws_fw.js](https://gist.github.com/oblerion/6740d8a4a25edc5c8fe9e3f3c44a607f) js website framework
 
 ## Lua
 ### Egba engine game
