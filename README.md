@@ -21,7 +21,7 @@
 - [cat binary file](https://gist.github.com/oblerion/55a0673941243bcab6e9d82312bf8bde) cat binairy file in c
 
 ## C/C++
-- [oide](https://github.com/oblerion/oide-c)
+- [oide](https://github.com/oblerion/oide-c) ide like amstrad console
 
 ## Javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
