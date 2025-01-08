@@ -6,8 +6,6 @@
 [itch.io](https://oblerion.itch.io/) games / tools<br>
 [artstation](https://www.artstation.com/oblerion) 3d models
 
-![Oblerion's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oblerion&theme=merko&show_icons=true&hide_border=true&layout=compact)
-
 # Projects :
 ## C
 - [Elyoko](https://github.com/oblerion/elyoko) 3d engine for lyoko world
