@@ -20,6 +20,7 @@
 
 ## C/C++
 - [oide](https://github.com/oblerion/oide-c) ide like amstrad console
+- [exodus](https://github.com/oblerion/Exodus) card game c++/raylib
 
 ## Javascript 
 - [love2d.js](https://github.com/oblerion/love2d.js) love2d framework for javascript game
